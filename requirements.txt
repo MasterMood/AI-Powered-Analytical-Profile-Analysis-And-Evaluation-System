@@ -5,3 +5,4 @@ streamlit-extras
 PyPDF2
 Pillow
 groq 
+scikit-learn
