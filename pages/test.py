@@ -66,7 +66,7 @@ def fetch_questions_from_groq(job_description):
         Return ONLY the JSON array with no additional text or formatting."""
         
         data = {
-            "model": "mixtral-8x7b-32768",
+            "model": "llama3-8b-8192",
             "messages": [
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": user_prompt}
