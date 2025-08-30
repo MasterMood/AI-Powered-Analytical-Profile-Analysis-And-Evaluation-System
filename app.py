@@ -25,7 +25,7 @@ load_dotenv()
 client = Groq(api_key=os.getenv("GROQ_API_KEY"))
 
 # Constants
-MIXTRAL_MODEL = "mixtral-8x7b-32768"
+MIXTRAL_MODEL = "llama3-8b-8192"
 ATS_PROMPT = """As an experienced ATS (Applicant Tracking System), analyze the following resume against the job description. Provide:
 1. A percentage match with the Job Role
 2. Missing keywords
