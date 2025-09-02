@@ -76,13 +76,24 @@ Replace in  file `.env` with your Groq API key:
 ```toml
 GROQ_API_KEY = "your_groq_api_key_here"
 ```
-
+Replace in  file `app.py` with your MODEL ID
+IN line 28 and 73
+Same in `pages/test.py`with your MODEL ID
+IN line 69
+```toml
+MIXTRAL_MODEL = "MODEL ID"
+```
 
 2. **Get Groq API Key:**
    - Visit [Groq Console](https://console.groq.com/)
    - Sign up/Login and create an API key
    - Replace `your_groq_api_key_here` with your actual API key
 
+3. **Add available model::**
+   - Visit [Groq Console](https://console.groq.com/docs/models)
+   - Replace `your_MODEL_ID _here` with available MODEL ID
+
+   
 ## 🚀 Running the Application
 
 ### Method 1: Using Streamlit Command
