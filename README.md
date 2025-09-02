@@ -146,12 +146,14 @@ Once the application is running, you can access it at:
 - Analytics dashboard
 - User management
 - Application oversight
+- Initial id/pass is admin/admin123456
 
 ### 2. **HR**
 - Candidate management
 - Application review
 - Assessment monitoring
 - Notes and feedback
+- Initial id/pass is hr/hr123456
 
 ### 3. **Candidate**
 - Profile management
