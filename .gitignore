@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# OS files
+.DS_Store
+
+# Byte-compiled / optimized / DLL files
+*.so
+
+# Test and coverage
+.pytest_cache/
+.coverage*
+htmlcov/
+
+# Jupyter & notebooks
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
+.streamlit/secrets.toml
+
+# Local data and databases
+*.db
+data/
+users.db
+test_database.db
+
+# Uploads and generated files
+uploads/
+
+# Logs
+*.log
+logs/
+
+# Model weights and large binaries
+*.pt
+*.onnx
+*.h5
+
+# Node / frontend (if any)
+node_modules/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.code-workspace
