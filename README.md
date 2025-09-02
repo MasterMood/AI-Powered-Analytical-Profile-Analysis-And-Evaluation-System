@@ -65,12 +65,6 @@ Create a file `.streamlit/secrets.toml` with your Groq API key:
 GROQ_API_KEY = "your_groq_api_key_here"
 ```
 
-Replace in  file `pages/test.py` with your Groq API key:
-
-```toml
-GROQ_API_KEY = "your_groq_api_key_here"
-```
-
 Replace in  file `.env` with your Groq API key:
 
 ```toml
