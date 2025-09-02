@@ -25,7 +25,7 @@ An intelligent web application for resume analysis, career guidance, and technic
 
 ```bash
 git clone <repository-url>
-cd AI-Powered-Analytical-Profile-Analysis-And-Evaluation-System
+
 ```
 
 ### Step 2: Set Up Virtual Environment
@@ -64,6 +64,19 @@ Create a file `.streamlit/secrets.toml` with your Groq API key:
 ```toml
 GROQ_API_KEY = "your_groq_api_key_here"
 ```
+
+Replace in  file `pages/test.py` with your Groq API key:
+
+```toml
+GROQ_API_KEY = "your_groq_api_key_here"
+```
+
+Replace in  file `.env` with your Groq API key:
+
+```toml
+GROQ_API_KEY = "your_groq_api_key_here"
+```
+
 
 2. **Get Groq API Key:**
    - Visit [Groq Console](https://console.groq.com/)
