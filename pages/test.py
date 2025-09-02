@@ -18,7 +18,8 @@ import plotly.graph_objects as go
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 # Groq API configuration
-GROQ_API_KEY = "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"
+# Prefer environment variable or Streamlit secrets for the API key
+GROQ_API_KEY = os.getenv("GROQ_API_KEY") or st.secrets.get("GROQ_API_KEY", None)
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 
 def load_questions(file_path='questions.json'):
@@ -35,6 +36,11 @@ def load_questions(file_path='questions.json'):
 def fetch_questions_from_groq(job_description):
     """Fetch technical questions from Groq API based on job description."""
     try:
+        # Ensure API key is available
+        if not GROQ_API_KEY:
+            st.error("GROQ_API_KEY is not set. Please configure it in environment variables or Streamlit secrets.")
+            return None
+
         headers = {
             "Authorization": f"Bearer {GROQ_API_KEY}",
             "Content-Type": "application/json"
@@ -66,7 +72,7 @@ def fetch_questions_from_groq(job_description):
         Return ONLY the JSON array with no additional text or formatting."""
         
         data = {
-            "model": "llama3-8b-8192",
+            "model": "openai/gpt-oss-120b",
             "messages": [
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": user_prompt}
