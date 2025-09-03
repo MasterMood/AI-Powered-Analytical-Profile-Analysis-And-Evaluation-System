@@ -25,7 +25,7 @@ load_dotenv()
 client = Groq(api_key=os.getenv("GROQ_API_KEY"))
 
 # Constants
-MIXTRAL_MODEL = "llama3-8b-8192"
+MIXTRAL_MODEL = "Your_MODEL_ID_Here"
 ATS_PROMPT = """As an experienced ATS (Applicant Tracking System), analyze the following resume against the job description. Provide:
 1. A percentage match with the Job Role
 2. Missing keywords
@@ -70,7 +70,7 @@ def get_chat_response(user_input):
     
     try:
         response = client.chat.completions.create(
-            model="mixtral-8x7b-32768",  # Groq's model
+            model="Your_MODEL_ID_Here",  # Groq's model
             messages=messages,
             max_tokens=500,
             temperature=0.7
