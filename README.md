@@ -84,7 +84,7 @@ MIXTRAL_MODEL = "MODEL ID"
    - Replace `your_groq_api_key_here` with your actual API key
 
 3. **Add available model::**
-   - Visit [Groq Console](https://console.groq.com/docs/models)
+   - Visit [Groq Model](https://console.groq.com/docs/models)
    - Replace `your_MODEL_ID _here` with available MODEL ID
 
    
