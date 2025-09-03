@@ -72,8 +72,9 @@ GROQ_API_KEY = "your_groq_api_key_here"
 ```
 Replace in  file `app.py` with your MODEL ID
 IN line 28 and 73
+
 Same in `pages/test.py`with your MODEL ID
-IN line 69
+IN line 75
 ```toml
 MIXTRAL_MODEL = "MODEL ID"
 ```
