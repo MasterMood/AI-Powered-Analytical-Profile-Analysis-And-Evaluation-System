@@ -72,7 +72,7 @@ def fetch_questions_from_groq(job_description):
         Return ONLY the JSON array with no additional text or formatting."""
         
         data = {
-            "model": "openai/gpt-oss-120b",
+            "model": "Your_MODEL_ID_Here",
             "messages": [
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": user_prompt}
