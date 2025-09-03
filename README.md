@@ -21,7 +21,7 @@ An intelligent web application for resume analysis, career guidance, and technic
 
 ## 🛠️ Installation
 
-### You can download zip fie also in <>COde section
+### You can download zip fie also in <>Code section
 
 ### Step 1: Clone the Repository
 
