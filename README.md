@@ -230,7 +230,7 @@ The application requires the following Python packages:
 - `Pillow` - Image processing
 - `mysql-connector-python` - Database connectivity
 
-## Team Members
+##  👤 Team Members
 
 Aniruddha  [Linkdin](https://www.linkedin.com/in/aniruddhateware/)  [Git](https://github.com/MasterMood)  
 
