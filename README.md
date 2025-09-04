@@ -232,6 +232,13 @@ The application requires the following Python packages:
 
 ## Team Members
 
-Aniruddha Teware [Linkdin](https://www.linkedin.com/in/aniruddhateware/)  [Git](https://github.com/MasterMood)  
+Aniruddha  [Linkdin](https://www.linkedin.com/in/aniruddhateware/)  [Git](https://github.com/MasterMood)  
+
+Anshul [Linkdin](https://www.linkedin.com/in/anshulmehare0903/)
+
+Renuka [Linkdin](https://www.linkedin.com/in/renuka-siraskar-45159026a/) [Git](https://github.com/SiraskarRenuka)  
+
+Shital [Linkdin](https://www.linkedin.com/in/shital-deshpande-749ba2250/) [Git](https://github.com/shital21d)  
+
 
 
