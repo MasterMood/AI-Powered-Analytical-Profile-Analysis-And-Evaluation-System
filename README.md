@@ -232,6 +232,7 @@ The application requires the following Python packages:
 
 ## Team Members
 
-Aniruddha Teware  [Linkdin](https://www.linkedin.com/in/aniruddhateware/)  [Git](https://www.linkedin.com/in/aniruddhateware/)  
+Aniruddha Teware 
+[Linkdin](https://www.linkedin.com/in/aniruddhateware/)  [Git](https://www.linkedin.com/in/aniruddhateware/)  
 
 
