@@ -230,5 +230,8 @@ The application requires the following Python packages:
 - `Pillow` - Image processing
 - `mysql-connector-python` - Database connectivity
 
+## Team Members
+
+Aniruddha Teware  [Linkdin](https://www.linkedin.com/in/aniruddhateware/)  [Linkdin](https://www.linkedin.com/in/aniruddhateware/)  
 
 
