@@ -230,22 +230,23 @@ The application requires the following Python packages:
 - `Pillow` - Image processing
 - `mysql-connector-python` - Database connectivity
 
-## 👥  My Team  
+## 👥 My Team  
 
--  **Aniruddha**  
-   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aniruddhateware/) 
-   [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/MasterMood)   
+- **Aniruddha**  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aniruddhateware/)  
+  [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/MasterMood)  
 
--  **Renuka**  
-   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/renuka-siraskar-45159026a/) 
-   [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/SiraskarRenuka)  
+- **Renuka**  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/renuka-siraskar-45159026a/)  
+  [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/SiraskarRenuka)  
 
--  **Shital**  
-   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shital-deshpande-749ba2250/) 
-   [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/shital21d)  
+- **Shital**  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shital-deshpande-749ba2250/)  
+  [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/shital21d)  
 
--  **Anshul**  
-   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anshulmehare0903/)  
+- **Anshul**  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anshulmehare0903/)
+
 
 
 
